@@ -1,4 +1,4 @@
-//http://tibyte.kr/265
+//http://tibyte.kr/266
 #include <iostream>
 
 using namespace std;
