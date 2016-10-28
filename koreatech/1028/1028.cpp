@@ -18,8 +18,8 @@ int main()
 		for(i=0; s[i]; ++i) {
 			if(s[i]==s[i+1]) ++len;
 			else {
-				if(len>max) max=len;
-				len=1;
+				if(len>max) max = len;
+				len = 1;
 			}
 		}
 		printf("%d\n", i-max);
