@@ -1,3 +1,1 @@
-##Koreatech OnlineJudge
-
-[#http://tibyte.kr/262](http://tibyte.kr/262)
+###[ºí·Î±×](http://tibyte.kr/262)
