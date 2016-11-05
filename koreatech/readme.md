@@ -1,1 +1,1 @@
-###[ºí·Î±×](http://tibyte.kr/262)
+###[Blog](http://tibyte.kr/262)
