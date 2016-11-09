@@ -1,3 +1,7 @@
+/*
+http://tibyte.kr/273
+*/
+
 #include <cstdio>
 #include <algorithm>
 
