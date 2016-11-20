@@ -1,3 +1,7 @@
+/*
+http://tibyte.kr/276
+*/
+
 #include <cstdio>
 #include <iostream>
 #include <cstring>
