@@ -1,3 +1,5 @@
+//http://tibyte.kr/284
+
 #include <cstdio>
 #include <cmath>
 #include <climits>
